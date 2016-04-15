@@ -1,0 +1,42 @@
+{
+  "name": "flux boilerplate",
+  "version": "1.0.0",
+  "description": "React app, With a Flux achitecture. and gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khalilgharbaoui/movie-reactjs-flux.git"
+  },
+  "keywords": [
+    "ReactJS",
+    "Flux",
+    "Gulp",
+    "Ajax",
+    "jQuery",
+    "JSON",
+    "Movies"
+  ],
+  "author": "Khalil Gharbaoui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khalilgharbaoui/movie-reactjs-flux/issues"
+  },
+  "homepage": "https://github.com/khalilgharbaoui/movie-reactjs-flux#readme",
+  "devDependencies": {
+    "browserify": "^13.0.0",
+    "flux": "^2.1.1",
+    "gulp": "^3.9.1",
+    "object-assign": "^4.0.1",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.3",
+    "react": "^15.0.1",
+    "react-dom": "^15.0.1"
+  }
+}
