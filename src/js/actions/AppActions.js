@@ -1,15 +1,23 @@
 import AppDispatcher from '../dispatcher/AppDispatcher';
 import AppConstants from '../constants/AppConstants';
 
-const AppActions = {
-  //example
+var AppActions = {
+  //Examples
+
   // searchMovies(movie){
-  //   console.log('Searching Movie ' + movie.title);
   //   AppDispatcher.handleViewAction({
   //     actionType: AppConstants.SEARCH_MOVIES,
   //     movie: movie
-  //   });
-  }
+  //
+  //   })
+  // },
+  // receiveMovieResults(movies){
+  //   AppDispatcher.handleViewAction({
+  //     actionType: AppConstants.RECEIVE_MOVIE_RESULTS,
+  //     movies: movies
+  //   })
+  // }
 }
+
 
 export default AppActions;
