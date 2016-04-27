@@ -34,10 +34,7 @@
     "gulp": "^3.9.1",
     "gulp-connect": "^3.2.2",
     "gulp-open": "^1.0.0",
-    "object-assign": "^4.0.1",
-    "reactify": "^1.1.1",
-    "vinyl-source-stream": "^1.1.0"
-  },
+    "reactify": "^1.1.1"  },
   "dependencies": {
     "react": "^15.0.1",
     "react-dom": "^15.0.1"
