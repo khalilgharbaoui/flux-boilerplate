@@ -36,7 +36,6 @@ $ open http://localhost:3070
 ###TODO:
 
 - add example steps for the Flux development cycle
-- fix live-reload bug reloading twice.
 - add deploy bash. (devOps)
 
 ##### Author: Khalil Gharbaoui
